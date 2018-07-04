@@ -1,0 +1,10 @@
+{
+  "config": {
+    "jpeg": "delete",
+    "jpg": "delete",
+    "jfif": "delete",
+    "jpe": "delete",
+    "txt": "move",
+    "pdf": "copy"
+  }
+}
